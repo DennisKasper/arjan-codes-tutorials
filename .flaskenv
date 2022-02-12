@@ -1,0 +1,2 @@
+FLASK_APP=graphql_server:app
+FLASK_ENV=development
